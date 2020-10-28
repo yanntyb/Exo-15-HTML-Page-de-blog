@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+    background-color: indianred;
+}
+
+h2 {
+    color: azure;
+}
+
+.post {
+    background-color: plum;
+}
+
+.text {
+    background-color: coral;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.auteur {
+    text-align: right;
+    background-color: plum;
+    color: chartreuse;
+}
+
+hr {
+    border: 10px solid green;
+    width: 150px;
+}
