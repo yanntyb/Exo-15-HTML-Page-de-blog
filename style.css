@@ -9,9 +9,10 @@ h2 {
 
 .post {
     background-color: plum;
+    padding: 10px;
 }
 
-.text {
+.text{
     background-color: coral;
     margin-left: 100px;
     margin-right: 100px;
